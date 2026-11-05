@@ -16,6 +16,6 @@ mediakit	?palette=default
 |fonts	cursive=Eagle+Lake&menu=Quintessential&menu-size=1.3rem
 
 |technical
-sections	centuries, library
+sections	events, library, centuries
 local-url	http://localhost/homes/families/tatacharyas/
-live-url	https://tatacharyas/homes.amadeusweb.in/
+live-url	https://tatacharyas.homes.amadeusweb.in/
